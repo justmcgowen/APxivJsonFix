@@ -1,4 +1,5 @@
 [
+    {
     "Author": "silasary",
     "Name": "ArchipelagoXIV",
     "Punchline": "Client for the Archipelago Multiworld Randomizer.",
@@ -10,4 +11,5 @@
         "multiworld",
         "randomizer"
     ]
+    }
 ]
