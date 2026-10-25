@@ -1,15 +1,15 @@
 [
     {
-    "Author": "silasary",
-    "Name": "ArchipelagoXIV",
-    "Punchline": "Client for the Archipelago Multiworld Randomizer.",
-    "Description": "Key Item Randomizer for FFIXV",
-    "InternalName": "Archipelago",
-    "ApplicableVersion": "any",
-    "Tags": [
+      "Author": "silasary",
+      "Name": "ArchipelagoXIV",
+      "Punchline": "Client for the Archipelago Multiworld Randomizer.",
+      "Description": "Key Item Randomizer for FFIXV",
+      "InternalName": "Archipelago",
+      "ApplicableVersion": "any",
+      "Tags": [
         "Archipelago",
         "multiworld",
         "randomizer"
-    ]
+      ]
     }
 ]
